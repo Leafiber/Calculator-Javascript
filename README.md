@@ -1,2 +1,2 @@
 # Calculator-Javascript
-Calculator using JavaScript.
+A simple calculator that uses basic (+, -, *, /) operations.
