@@ -1,7 +1,7 @@
 class Calculator {
     constructor(previousOperandTextElement, currentOperandTextElement) {
-        this.previousOperandTextElement = previousOperandTextElement
-        this.currentOperandTextElement = currentOperandTextElement
+        this.previousOperandTextElement = previousOperandTextElemen
+        this.currentOperandTextElement = currentOperandTextElemen
         this.clear()
     }
 
